@@ -1,5 +1,7 @@
 'use client'
-import HeroSection from "@/Components/HeroSection";
+import HeroSection  from "@/Components/HeroSection";
+import { cn } from "@/lib/utils";
+import { Spotlight } from "@/Components/ui/Spotlight";
 import Image from "next/image";
 
 export default function Home() {
