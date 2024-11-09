@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar for Beginners",
+      "slug": "guitar-for-beginners",
+      "description": "Learn to play the guitar from scratch with step-by-step lessons on chords, strumming, and basic songs.",
+      "price": 49.99,
+      "instructor": "John Mayer",
+      "isFeatured": true,
+      "image": "https://example.com/images/guitar-beginners.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mastering Piano: From Basics to Pro",
+      "slug": "mastering-piano-basics-to-pro",
+      "description": "Comprehensive piano course covering music theory, scales, and advanced techniques.",
+      "price": 79.99,
+      "instructor": "Elena Foster",
+      "isFeatured": false,
+      "image": "https://example.com/images/piano-masterclass.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Singing Lessons for Beginners",
+      "slug": "singing-lessons-for-beginners",
+      "description": "Learn the basics of vocal training, breathing techniques, and pitch control.",
+      "price": 59.99,
+      "instructor": "Michael Thompson",
+      "isFeatured": true,
+      "image": "https://example.com/images/singing-lessons.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with FL Studio",
+      "slug": "music-production-with-fl-studio",
+      "description": "Learn music production and beat-making using FL Studio from scratch.",
+      "price": 99.99,
+      "instructor": "DJ Alex",
+      "isFeatured": false,
+      "image": "https://example.com/images/fl-studio-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Master the fundamentals of drumming, including rhythms, beats, and fills.",
+      "price": 69.99,
+      "instructor": "Sarah Jones",
+      "isFeatured": true,
+      "image": "https://example.com/images/drumming-essentials.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Improvisation for Beginners",
+      "slug": "jazz-improvisation-for-beginners",
+      "description": "Learn the art of jazz improvisation with scales, licks, and techniques for beginners.",
+      "price": 89.99,
+      "instructor": "Louis Armstrong Jr.",
+      "isFeatured": false,
+      "image": "https://example.com/images/jazz-improvisation.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to create electronic music, mix tracks, and produce high-quality EDM.",
+      "price": 109.99,
+      "instructor": "Anna Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/electronic-music.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Advanced Violin Techniques",
+      "slug": "advanced-violin-techniques",
+      "description": "Enhance your violin skills with advanced techniques, including vibrato and double stops.",
+      "price": 79.99,
+      "instructor": "David Chang",
+      "isFeatured": false,
+      "image": "https://example.com/images/violin-advanced.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Music Theory Made Easy",
+      "slug": "music-theory-made-easy",
+      "description": "Understand the fundamentals of music theory, scales, chords, and songwriting.",
+      "price": 49.99,
+      "instructor": "Emily White",
+      "isFeatured": true,
+      "image": "https://example.com/images/music-theory.jpg"
+    },
+    {
+      "id": 10,
+      "title": "DJ Mixing and Scratching",
+      "slug": "dj-mixing-and-scratching",
+      "description": "Learn to mix tracks, scratch, and perform live DJ sets with confidence.",
+      "price": 119.99,
+      "instructor": "DJ Mark",
+      "isFeatured": false,
+      "image": "https://example.com/images/dj-mixing.jpg"
+    }
+  ]
+}
